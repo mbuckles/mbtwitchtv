@@ -1,0 +1,69 @@
+/*Footer*/
+footer {
+  margin-top: 5rem;
+}
+i.fa.fa-github {
+  margin-left: 15px;
+  margin-top:5px;
+  font-size: 3.5em;
+  vertical-align: middle;
+}
+a.glyphicon.glyphicon-envelope {
+  margin-left: 10px;
+  margin-top:5px;
+  font-size: 2.5em;
+  top: 0.5em;
+}
+/* End Footer*/
+body {
+  background: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTpzQGDGoVnrkCwCdPxeO6sRwt3tAYmHdnOVd7c2xLe6f01PA57Q");
+ color:white;
+  padding-top: 100px;
+  font-family:New Times Roman;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+#header{
+  background: rgba(0,0,0,.5);
+  border-width: 5px;
+  border-radius: 5px;
+    box-shadow: 5px 5px 5px black;
+    height: 220px;
+}
+h1, h2 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+img {
+  width: 89px;
+  border-width: 5px;
+  border-radius: 5px;
+    box-shadow: 5px 5px 5px black;
+ }
+
+.col-md.4{
+  padding: 15px;
+}
+
+.row{
+  background: rgba(0,0,0,.5);
+  border-width: 5px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px black;
+  margin: 15px 0 15px 0;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+h3#stream {
+    font-size: 24px;
+    text-decoration: none;
+}
+a {
+    color: #5ce4ea;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+a:hover {
+    color: white;
+    text-decoration: none;
+}
